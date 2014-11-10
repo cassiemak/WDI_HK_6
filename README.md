@@ -1,3 +1,3 @@
-## General Assembly 
-### Web Development Immersive Table of Content
+### Table of Content
+###### General Assembly | Web Development Immersive 
 ==================
