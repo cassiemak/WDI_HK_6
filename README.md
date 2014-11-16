@@ -3,7 +3,7 @@
 ==================
 
 #### Week 1 Day 1
-- Lecture slides: <will be posted>
+- Lecture slides: (will be posted)
 - Homework
   - http://www.20thingsilearned.com/en-US/what-is-the-internet
 
