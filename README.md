@@ -2,6 +2,8 @@
 ###### General Assembly | Web Development Immersive 
 ==================
 
+#### Ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
+
 #### Week 1 Day 1 - Orientation Day
 - Lecture slides: (will be posted)
 - Homework
