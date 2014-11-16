@@ -2,7 +2,7 @@
 ###### General Assembly | Web Development Immersive 
 ==================
 
-#### Week 1 Day 1
+#### Week 1 Day 1 - Orientation Day
 - Lecture slides: (will be posted)
 - Homework
   - http://www.20thingsilearned.com/en-US/what-is-the-internet
