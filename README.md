@@ -6,7 +6,7 @@
 
 #### Week 1 Day 2 - Internet, Webapp, Git and Github
 - Lecture slides: https://slides.com/harrychenca/w1-d2
-- 
+
 #### Week 1 Day 1 - Orientation Day
 - Lecture slides: https://slides.com/harrychenca/w1-d1
 - Homework
