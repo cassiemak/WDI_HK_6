@@ -1,8 +1,10 @@
 ### Table of Content
 ###### General Assembly | Web Development Immersive 
-==================
 
-#### Ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
+##### You can find all the materials and course resources here.
+
+##### You can ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
+==================
 
 #### Week 1 Day 4 - Lab / Bootstrap
 - Lecture slides: http://slides.com/harrychenca/w1-d4
