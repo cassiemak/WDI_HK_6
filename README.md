@@ -13,6 +13,10 @@
 ==================
 <a name="week1"></a>
 #### Week 1
+
+###### Week 1 Day 5 - Bootstrap Project
+- Lecture slides: http://slides.com/harrychenca/w1-d5
+
 ###### Week 1 Day 4 - Lab / Bootstrap
 - Lecture slides: http://slides.com/harrychenca/w1-d4
 - Lab Solution: https://github.com/HK-WDI-November-2014/html-css-lab-complete
