@@ -6,9 +6,11 @@
 
 #### Week 1 Day 4 - Lab / Bootstrap
 - Lecture slides: http://slides.com/harrychenca/w1-d4
+- Lab Solution: https://github.com/HK-WDI-November-2014/html-css-lab-complete
 
 #### Week 1 Day 3 - HTML / CSS / LAB
 - Lecture slides: http://slides.com/harrychenca/w1-d3
+- Lab: https://github.com/HK-WDI-November-2014/html-css-project
 
 #### Week 1 Day 2 - Internet, Webapp, Git and Github
 - Lecture slides: https://slides.com/harrychenca/w1-d2
