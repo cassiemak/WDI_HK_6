@@ -7,7 +7,7 @@
 #### Week 1 Day 4 - Lab / Bootstrap
 - Lecture slides: http://slides.com/harrychenca/w1-d4
 
-#### Week 1 Day 3 - HTML / CSS / LAB!!!!!!!
+#### Week 1 Day 3 - HTML / CSS / LAB
 - Lecture slides: http://slides.com/harrychenca/w1-d3
 
 #### Week 1 Day 2 - Internet, Webapp, Git and Github
