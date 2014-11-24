@@ -6,11 +6,19 @@
 ###### You can ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
 
 ###### Contents
+* [Week 2](#week2)
 * [Week 1](#week1)
 * [Prework](#prework)
 * [Resources](#resources)
 
 ==================
+
+<a name="week2"></a>
+#### Week 2
+
+###### Week 2 Day 1 - HTML/CSS/Bootstrap Wrap-up
+- Lecture slides: https://slides.com/harrychenca/w2-d1/edit
+
 <a name="week1"></a>
 #### Week 1
 
