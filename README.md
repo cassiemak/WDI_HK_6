@@ -17,7 +17,7 @@
 #### Week 2
 
 ###### Week 2 Day 1 - HTML/CSS/Bootstrap Wrap-up
-- Lecture slides: https://slides.com/harrychenca/w2-d1/edit
+- Lecture slides: https://slides.com/harrychenca/w2-d1
 
 <a name="week1"></a>
 #### Week 1
