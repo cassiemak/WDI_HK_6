@@ -18,13 +18,14 @@
 
 ###### Week 2 Day 1 - HTML/CSS/Bootstrap Wrap-up
 - Lecture slides: https://slides.com/harrychenca/w2-d1
+- Project Solution Reference: https://github.com/HK-WDI-November-2014/bootstrap-project
 
 <a name="week1"></a>
 #### Week 1
 
 ###### Week 1 Day 5 - Bootstrap Project
 - Lecture slides: http://slides.com/harrychenca/w1-d5
-- Project: https://github.com/HK-WDI-November-2014/bootstrap-project
+- Project: https://github.com/HK-WDI-November-2014/bootstrap-project/commit/66f6d5b4d598b20914b5727f766a1ea7b9b02b53
 
 ###### Week 1 Day 4 - Lab / Bootstrap
 - Lecture slides: http://slides.com/harrychenca/w1-d4
