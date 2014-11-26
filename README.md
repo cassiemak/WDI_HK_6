@@ -19,16 +19,17 @@
 ###### Week 2 Day 3 - Introduction to Computer Science (using Javascript)
 - Lecture slides: https://slides.com/harrychenca/w2-d3
 - Lecture notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/functions.md
+- Homework: https://www.codeschool.com/courses/javascript-road-trip-part-3 (up to level 4)
 
 ###### Week 2 Day 2 - Introduction to Computer Science (using Javascript)
 - Lecture slides: https://slides.com/harrychenca/w2-d2
 - Lecture notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/javascript.md
-- Homework: https://www.codeschool.com/courses/javascript-road-trip-part-2
+- Homework: https://www.codeschool.com/courses/javascript-road-trip-part-2 (all levels)
 
 ###### Week 2 Day 1 - HTML/CSS/Bootstrap Wrap-up
 - Lecture slides: https://slides.com/harrychenca/w2-d1
 - Project Solution Reference: https://github.com/HK-WDI-November-2014/bootstrap-project
-- Homework: https://www.codeschool.com/courses/javascript-road-trip-part-1
+- Homework: https://www.codeschool.com/courses/javascript-road-trip-part-1 (all levels)
 
 <a name="week1"></a>
 #### Week 1
