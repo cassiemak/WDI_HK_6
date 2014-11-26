@@ -16,6 +16,10 @@
 <a name="week2"></a>
 #### Week 2
 
+###### Week 2 Day 3 - Introduction to Computer Science (using Javascript)
+- Lecture slides: https://slides.com/harrychenca/w2-d3
+- Lecture notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/functions.md
+
 ###### Week 2 Day 2 - Introduction to Computer Science (using Javascript)
 - Lecture slides: https://slides.com/harrychenca/w2-d2
 - Lecture notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/javascript.md
