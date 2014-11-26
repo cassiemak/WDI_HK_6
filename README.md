@@ -40,7 +40,7 @@
 ###### Week 1 Day 3 - HTML / CSS / LAB
 - Lecture slides: http://slides.com/harrychenca/w1-d3
 - Lab: https://github.com/HK-WDI-November-2014/html-css-project
-- Homework for the week
+- Homework for the week:
   - http://slides.com/harrychenca/w1-d3#/24
   - http://slides.com/harrychenca/w1-d3#/25
 
@@ -49,8 +49,7 @@
 
 ###### Week 1 Day 1 - Orientation Day
 - Lecture slides: https://slides.com/harrychenca/w1-d1
-- Homework
-  - http://www.20thingsilearned.com/en-US/what-is-the-internet
+- Homework: http://www.20thingsilearned.com/en-US/what-is-the-internet
 
 <a name="prework"></a>
 #### Prework
