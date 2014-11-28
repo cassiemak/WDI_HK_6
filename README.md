@@ -16,6 +16,10 @@
 <a name="week2"></a>
 #### Week 2
 
+###### Week 2 Day 5 - Javascript and jQuery exercise
+- Exercises: 
+  - https://github.com/HK-WDI-November-2014/jquery-exercise-shopping-cart
+
 ###### Week 2 Day 4 - Introduction to jQuery
 - Lecture slides: No slides
 - Lecture notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/jquery.md
