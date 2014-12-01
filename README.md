@@ -6,6 +6,7 @@
 ###### You can ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
 
 ###### Contents
+* [Week 3](#week3)
 * [Week 2](#week2)
 * [Week 1](#week1)
 * [Prework](#prework)
@@ -15,6 +16,7 @@
 <a name="week3"></a>
 #### Week 3
 
+<!--
 ###### Week 3 Day 3 - HighCharts
 - Review of API Exercises
 - Exercises: 
@@ -25,11 +27,12 @@
 - Lecture Notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/600-ajax-get.md
 - Exercises: 
   - Create a site using the OMDB or Quandl APIs
+-->
 
 ###### Week 3 Day 1 - Javascript and jQuery exercise
-- Review of Shopping Cart Exercise
-- Exercises: 
-  - Create a small game
+- Shopping Cart Exercise
+- Shopping Cart Solution: https://github.com/HK-WDI-November-2014/jquery-exercise-shopping-cart-complete
+- Cheatsheets: https://github.com/HK-WDI-November-2014/cheatsheets
   
 <a name="week2"></a>
 #### Week 2
