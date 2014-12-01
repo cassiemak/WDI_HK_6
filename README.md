@@ -12,7 +12,20 @@
 * [Resources](#resources)
 
 ==================
+<a name="week3"></a>
+#### Week 3
 
+###### Week 3 Day 2 - AJAX
+- Review of Previews Day Exercises
+- Lecture Notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/600-ajax-get.md
+- Exercises: 
+  - Create a site using the OMDB or Quandl APIs
+
+###### Week 3 Day 1 - Javascript and jQuery exercise
+- Review of Shopping Cart Exercise
+- Exercises: 
+  - Create a BMI calculator
+  - 
 <a name="week2"></a>
 #### Week 2
 
