@@ -21,13 +21,19 @@
 - Review of API Exercises
 - Exercises: 
   - Create a dynamically-generated chart using HighCharts and API
+-->
 
 ###### Week 3 Day 2 - AJAX
-- Review of Previous Day Exercises
 - Lecture Notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/600-ajax-get.md
-- Exercises: 
-  - Create a site using the OMDB or Quandl APIs
--->
+- Realtime APIs
+  - http://ciese.org/materials/resources/realtimedata/
+  - https://nycopendata.socrata.com/
+  - http://ciese.org/materials/resources/realtimedata/
+  - http://www.programmableweb.com/api/mta
+- Exercises: Clone http://www.mental-math-trainer.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn&mc_cid=c86b2d47f6&mc_eid=c9b5350b14
+- In-class post request: 
+  - https://sheltered-castle-9043.herokuapp.com/
+  - chrome-extension://fdmmgilgnpjigdojojpjoooidkmcomcm/index.html
 
 ###### Week 3 Day 1 - Javascript and jQuery exercise
 - Shopping Cart Exercise
