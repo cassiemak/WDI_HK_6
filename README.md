@@ -27,7 +27,7 @@
 - 10-second math solution: https://github.com/HK-WDI-November-2014/jquery-math-game-exercise/blob/master/README.md
 - Introduction to HighChart
 - Homework: https://github.com/HK-WDI-November-2014/intro-highchart
-- HomeworkL https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/data-aggregation.md
+- Homework: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/data-aggregation.md
 
 ###### Week 3 Day 3 - 10-second Math Game
 - Practice Time!
