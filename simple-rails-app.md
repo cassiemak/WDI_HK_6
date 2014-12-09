@@ -11,6 +11,8 @@
 
 3. Change the following in the Gemfile
 ``` ruby
+	# use '4.1.6' for heroku
+gem 'rails', '4.1.6'
 	# Use postgresql as the database for Production
 gem 'pg', group: :production
 	# Use sqlite3 as the database for Development
