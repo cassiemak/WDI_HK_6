@@ -35,6 +35,7 @@ Highstock Annotation Project Solution:
 ###### Week 3 Day 5 - HighCharts and HighStocks
 - Review of API Exercises
 - Exercises: Create a dynamically-generated chart using HighCharts and API with Annotications
+- Exercise Example Site: http://ga-student-page.meteor.com/playground/highcharts-annotation
 
 ###### Week 3 Day 4 - Wrap-up of 10-second Math Game and HighChart
 - 10-second math solution: https://github.com/HK-WDI-November-2014/jquery-math-game-exercise/blob/master/README.md
