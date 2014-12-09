@@ -17,18 +17,24 @@
 <a name="week4"></a>
 #### Week 4
 
+###### Week 4 Day 2
+- Rails Basic Template Github Repo: https://github.com/HK-WDI-November-2014/rails-basic-template
+- Rails Basic Template on Heroku: https://rails-basic-template.herokuapp.com/
+
+<!--
+Highstock Annotation Project Solution:
+-->
+
 ###### Week 4 Day 1
-Ruby Introduction: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/ruby-install.md
+- Highstock Annotation Project Exercise
+- Ruby Introduction: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/ruby-install.md
 
 <a name="week3"></a>
 #### Week 3
 
-<!--
-###### Week 3 Day 3 - HighCharts
+###### Week 3 Day 5 - HighCharts and HighStocks
 - Review of API Exercises
-- Exercises: 
-  - Create a dynamically-generated chart using HighCharts and API
--->
+- Exercises: Create a dynamically-generated chart using HighCharts and API with Annotications
 
 ###### Week 3 Day 4 - Wrap-up of 10-second Math Game and HighChart
 - 10-second math solution: https://github.com/HK-WDI-November-2014/jquery-math-game-exercise/blob/master/README.md
