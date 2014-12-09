@@ -6,6 +6,7 @@
 ###### You can ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
 
 ###### Contents
+* [Week 4](#week4)
 * [Week 3](#week3)
 * [Week 2](#week2)
 * [Week 1](#week1)
