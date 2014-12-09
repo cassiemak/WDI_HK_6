@@ -13,6 +13,12 @@
 * [Resources](#resources)
 
 ==================
+<a name="week4"></a>
+#### Week 4
+
+###### Week 4 Day 1
+Ruby Introduction: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/ruby-install.md
+
 <a name="week3"></a>
 #### Week 3
 
