@@ -20,10 +20,11 @@
 ###### Week 4 Day 2
 - Rails Basic Template Github Repo: https://github.com/HK-WDI-November-2014/rails-basic-template
 - Rails Basic Template on Heroku: https://rails-basic-template.herokuapp.com/
-
-<!--
-Highstock Annotation Project Solution:
--->
+- HighStocks Annotations:
+  - AJAX for CRUD: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/620-ajax-crud.md
+  - AJAX for HighCharts: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/630-ajax-crud-highcharts-annotation.md
+  - Possible Logic Flow: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/631-ajax-crud-highcharts-annotation.md
+  - ***Possible Solution***: https://github.com/fuzzybabybunny/portfolio-example-ga/blob/master/client/templates/pages/highcharts-annotation.js
 
 ###### Week 4 Day 1
 - Highstock Annotation Project Exercise
