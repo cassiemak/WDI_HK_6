@@ -21,9 +21,9 @@
 - Rails Basic Template Github Repo: https://github.com/HK-WDI-November-2014/rails-basic-template
 - Rails Basic Template on Heroku: https://rails-basic-template.herokuapp.com/
 - HighStocks Annotations:
-  - AJAX for CRUD: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/620-ajax-crud.md
-  - AJAX for HighCharts: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/630-ajax-crud-highcharts-annotation.md
-  - Possible Logic Flow: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/631-ajax-crud-highcharts-annotation.md
+  - AJAX for CRUD: https://github.com/HK-WDI-November-2014/Class-Notes-And-Exercises/blob/master/620-ajax-crud.md
+  - AJAX for HighCharts: https://github.com/HK-WDI-November-2014/Class-Notes-And-Exercises/blob/master/630-ajax-crud-highcharts-annotation.md
+  - Possible Logic Flow: https://github.com/HK-WDI-November-2014/Class-Notes-And-Exercises/blob/master/631-ajax-crud-highcharts-annotation.md
   - ***Possible Solution***: https://github.com/fuzzybabybunny/portfolio-example-ga/blob/master/client/templates/pages/highcharts-annotation.js
 
 ###### Week 4 Day 1
@@ -41,13 +41,13 @@
 ###### Week 3 Day 4 - Wrap-up of 10-second Math Game and HighChart
 - 10-second math solution: https://github.com/HK-WDI-November-2014/jquery-math-game-exercise/blob/master/README.md
 - Introduction to HighChart: https://github.com/HK-WDI-November-2014/intro-highchart
-- Homework: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/data-aggregation.md
+- Homework: https://github.com/HK-WDI-November-2014/Class-Notes-And-Exercises/blob/master/data-aggregation.md
 
 ###### Week 3 Day 3 - 10-second Math Game
 - Practice Time!
 
 ###### Week 3 Day 2 - AJAX
-- Lecture Notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/600-ajax-get.md
+- Lecture Notes: https://github.com/HK-WDI-November-2014/Class-Notes-And-Exercises/blob/master/600-ajax-get.md
 - Realtime APIs
   - http://ciese.org/materials/resources/realtimedata/
   - https://nycopendata.socrata.com/
@@ -72,17 +72,17 @@
 
 ###### Week 2 Day 4 - Introduction to jQuery
 - Lecture slides: No slides
-- Lecture notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/jquery.md
+- Lecture notes: https://github.com/HK-WDI-November-2014/Class-Notes-And-Exercises/blob/master/jquery.md
 - Homework (optional): http://jqexercise.droppages.com/
 
 ###### Week 2 Day 3 - Introduction to Computer Science (using Javascript)
 - Lecture slides: https://slides.com/harrychenca/w2-d3
-- Lecture notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/functions.md
+- Lecture notes: https://github.com/HK-WDI-November-2014/Class-Notes-And-Exercises/blob/master/functions.md
 - Homework: https://www.codeschool.com/courses/javascript-road-trip-part-3 (up to level 4)
 
 ###### Week 2 Day 2 - Introduction to Computer Science (using Javascript)
 - Lecture slides: https://slides.com/harrychenca/w2-d2
-- Lecture notes: https://github.com/HK-WDI-November-2014/javascript-exercises/blob/master/javascript.md
+- Lecture notes: https://github.com/HK-WDI-November-2014/Class-Notes-And-Exercises/blob/master/javascript.md
 - Homework: https://www.codeschool.com/courses/javascript-road-trip-part-2 (all levels)
 
 ###### Week 2 Day 1 - HTML/CSS/Bootstrap Wrap-up
