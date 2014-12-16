@@ -29,6 +29,7 @@
 - Using Ajax in Ruby on Rails
 - Personal Project Pitch
 - Wireframing / FOC / Database Table Design
+- RailsPanel (Chrome Extension / A mini rails debugger)
 
 <a name="week4"></a>
 #### Week 4
