@@ -20,12 +20,12 @@
 
 ###### Week 5 Day 2
 - Ajax Commenting Challenge
-  - Possible Solution: 
+  - Possible Solution: https://github.com/harrychenca/reddit-rails/tree/ajax-comment-1
 - MVC Structure Review
 - User Authenticate Validation (Devise)
 
 ###### Week 5 Day 1
-- Ajax Post Voting
+- Ajax Post Voting: https://github.com/harrychenca/reddit-rails
 - Using Ajax in Ruby on Rails
 - Personal Project Pitch
 - Wireframing / FOC / Database Table Design
@@ -34,12 +34,13 @@
 #### Week 4
 
 ###### Week 4 Day 5
+- MVC Quiz
 - Cloning Reddit on Rails
-- Learning to use Devise
+- Learning to use Devise: https://github.com/harrychenca/reddit-rails/tree/devise
 - Putting MVC into practice
 
 ###### Week 4 Day 4
-- Cloning Reddit on Rails
+- Cloning Reddit on Rails: https://github.com/harrychenca/reddit-rails
 - Creating models, views, routes, controllers, and database migrations on Rails
 - Putting MVC into practice
 
