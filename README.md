@@ -18,9 +18,33 @@
 <a name="week5"></a>
 #### Week 5
 
+###### Week 5 Day 2
+- Ajax Commenting Challenge
+  - Possible Solution: 
+- MVC Structure Review
+- User Authenticate Validation (Devise)
+
+###### Week 5 Day 1
+- Ajax Post Voting
+- Using Ajax in Ruby on Rails
+- Personal Project Pitch
+- Wireframing / FOC / Database Table Design
 
 <a name="week4"></a>
 #### Week 4
+
+###### Week 4 Day 5
+- Cloning Reddit on Rails
+- Learning to use Devise
+- Putting MVC into practice
+
+###### Week 4 Day 4
+- Cloning Reddit on Rails
+- Creating models, views, routes, controllers, and database migrations on Rails
+- Putting MVC into practice
+
+###### Week 4 Day 3
+- MVC Framework on Ruby on Rails
 
 ###### Week 4 Day 2
 - Rails Basic Template Github Repo: https://github.com/HK-WDI-November-2014/rails-basic-template
