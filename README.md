@@ -14,9 +14,20 @@
 * [Prework](#prework)
 * [Resources](#resources)
 
+###### Projects
+* [Cassie](#cassie)
+* [Clement](#clement)
+* [Dale](dale)
+* [Denis](denis)
+* [Dow](#dow)
+* [Vivien](#vivien)
+
 ==================
 <a name="week5"></a>
 #### Week 5
+
+###### Week 5 Day 3
+- Dash: Offline software documentations (http://kapeli.com/dash)
 
 ###### Week 5 Day 2
 - Ajax Commenting Challenge
@@ -35,7 +46,7 @@
 #### Week 4
 
 ###### Week 4 Day 5
-- MVC Quiz
+- MVC Quiz: Draw out the whole MVC framework
 - Cloning Reddit on Rails
 - Learning to use Devise: https://github.com/harrychenca/reddit-rails/tree/devise
 - Putting MVC into practice
@@ -46,7 +57,9 @@
 - Putting MVC into practice
 
 ###### Week 4 Day 3
-- MVC Framework on Ruby on Rails
+- MVC Framework on Ruby on Rails (Routes, Controllers, Views, Models, Databases)
+- Relational vs. Non-relational databases
+- Heroku vs. Github
 
 ###### Week 4 Day 2
 - Rails Basic Template Github Repo: https://github.com/HK-WDI-November-2014/rails-basic-template
@@ -152,5 +165,31 @@
 - http://harryworld.gitbooks.io/web-development-prework/
 
 <a name="resources"></a>
-#### Online Resources
-Please follow the order of the practices when you are using them
+#### Resources
+- A list of keyboard shortcuts: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/keyboard-shortcuts.md
+- TryRuby: http://tryruby.org/
+- CodeSchool Javascript: https://www.codeschool.com/paths/javascript
+- Rails Zombie: http://railsforzombies.org/
+- Dash: https://dash.generalassemb.ly/
+- Hacker News: news.ycombinator.com
+- Product Hunt: producthunt.com
+
+#### All Projects
+
+<a name="cassie"></a>
+###### Cassie
+
+<a name="clement"></a>
+###### Clement
+
+<a name="dale"></a>
+###### Dale
+
+<a name="denis"></a>
+###### Denis
+
+<a name="dow"></a>
+###### Dow
+
+<a name="vivien"></a>
+###### Vivien
