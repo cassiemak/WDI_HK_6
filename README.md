@@ -178,18 +178,118 @@
 
 <a name="cassie"></a>
 ###### Cassie
+- Portfolio Site
+  - https://cassiemak.herokuapp.com/
+  - https://github.com/cassiemak/cassie
+- The Next Web
+  - http://sassybootstrap.bitballoon.com/
+  - https://github.com/cassiemak/bootstrap-project
+- JS shopping cart
+  - http://sassy-simple-shopping-cart.bitballoon.com/
+  - https://github.com/cassiemak/jquery-exercise-shopping-cart
+- Math Game
+  - http://sassy-math.bitballoon.com/
+  - https://github.com/cassiemak/mathgame
+- HighChart Annotation
+  - http://highchart-annotation.bitballoon.com/
+  - https://github.com/cassiemak/highstock-ajax-crud 
+- Reddit-rails
+  - https://sassy-reddit.herokuapp.com/
+  - https://github.com/cassiemak/reddit-rails
 
 <a name="clement"></a>
 ###### Clement
+- Portfolio Site
+  - https://cchchoi1986-portfoliosite.herokuapp.com/
+  - http://www.choiclement.com
+  - https://github.com/cchchoi1986/cc-portfolio-rails
+- The Next Web
+  - http://tnwclone-responsivenessexercise-cchchoi1986.bitballoon.com/
+  - https://github.com/cchchoi1986/tnwclone-responsiveexercise
+- JS shopping cart
+  - https://www.bitballoon.com/sites/shoppingcartexercise-cchchoi1986
+  - https://github.com/cchchoi1986/jquery-exercise-shopping-cart
+- Math Game
+  - http://10secondsofmathcchchoi1986.bitballoon.com/
+  - https://github.com/cchchoi1986/math-game
+- HighChart Annotation
+  - http://highstockannotated-cchchoi1986.bitballoon.com/
+  - https://github.com/cchchoi1986/highstocks-annotate
+- Reddit-rails
+  - https://cchchoi1986-reddit-rails.herokuapp.com/ not working yet
+  - https://github.com/cchchoi1986/reddit-rails
 
 <a name="dale"></a>
 ###### Dale
+- Portfolio Site
+  - https://agile-shore-7752.herokuapp.com/
+  - https://github.com/gduck/Portfolio-Dale
+- The Next Web
+  - http://dales-bootstrap-project.bitballoon.com/
+  - https://github.com/gduck/bootstrap-project
+- JS shopping cart
+  - http://dale-shopping-cart.bitballoon.com/
+  - https://github.com/gduck/jquery-exercise-shopping-cart
+- Math Game
+  - http://tensecondmath.bitballoon.com/
+  - https://github.com/gduck/tensecondmath
+- HighChart Annotation
+  - http://quandl-highstock-dale.bitballoon.com/
+  - https://github.com/gduck/quandl-project
+- Reddit-rails
+  - https://shielded-cove-8764.herokuapp.com/
+  - https://github.com/gduck/reddit-for-rails
 
 <a name="denis"></a>
 ###### Denis
+- Portfolio Site
+  - https://dcheung-portfolio.herokuapp.com/
+  - https://github.com/dshcheung/dcheung-portfolio
+- The Next Web
+  - http://dshcheung-bootstrap-project.bitballoon.com/
+  - https://github.com/dshcheung/bootstrap-project
+- JS shopping cart
+  - http://operator-bat-16383.bitballoon.com/
+  - https://github.com/dshcheung/jquery-shoppingCart
+- Math Game
+  - http://ranger-adrain-16736.bitballoon.com/
+  - https://github.com/dshcheung/jquery-mathGame
+- HighChart Annotation
+  - http://butcher-fork-88536.bitballoon.com/
+  - https://github.com/dshcheung/highstocks-annotate
+- Reddit-rails
+  - https://stormy-inlet-9337.herokuapp.com/
+  - https://github.com/dshcheung/reddit-rails
 
 <a name="dow"></a>
 ###### Dow
+- Portfolio Site
+- The Next Web
+  - https://github.com/dowtang/bootstrap-project.git 
+- JS shopping cart
+  - https://github.com/dowtang/ShoppingCart.git
+- Math Game
+  - https://github.com/dowtang/Mental-Math-Folder.git
+- HighChart Annotation
+- Reddit-rails
+  - https://github.com/dowtang/reddit-rails.git
 
 <a name="vivien"></a>
 ###### Vivien
+- Portfolio Site
+- The Next Web
+- JS shopping cart
+  - http://jsshoppingcart.bitballoon.com/
+  - https://github.com/vivientam/jsshoppingcart
+- Math Game
+ - http://mathgame.bitballoon.com/
+ - https://github.com/vivientam/mathgame
+- Historical Gas
+ - http://historicalgas.bitballoon.com/
+ - https://github.com/vivientam/historicalgas
+- Highstock Rest API
+ - http://highstockrestapi.bitballoon.com/
+ - https://github.com/vivientam/highstockrestapi.git
+- Reddit-rails
+ - https://polar-retreat-7464.herokuapp.com/
+ - https://github.com/vivientam/reddit-railsd2.git
