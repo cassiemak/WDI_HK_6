@@ -12,7 +12,6 @@
 * [Week 2](#week2)
 * [Week 1](#week1)
 * [Prework](#prework)
-* [Resources](#resources)
 
 ###### Projects
 * [Cassie](#cassie)
@@ -21,6 +20,12 @@
 * [Denis](denis)
 * [Dow](#dow)
 * [Vivien](#vivien)
+
+###### Additional Resources
+[Resources](#resources)
+
+###### Great tools
+[Tools](#tools)
 
 ==================
 <a name="week5"></a>
@@ -164,16 +169,6 @@
 - Please go over all the setups and practices in this document
 - http://harryworld.gitbooks.io/web-development-prework/
 
-<a name="resources"></a>
-#### Resources
-- A list of keyboard shortcuts: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/keyboard-shortcuts.md
-- TryRuby: http://tryruby.org/
-- CodeSchool Javascript: https://www.codeschool.com/paths/javascript
-- Rails Zombie: http://railsforzombies.org/
-- Dash: https://dash.generalassemb.ly/
-- Hacker News: news.ycombinator.com
-- Product Hunt: producthunt.com
-
 #### All Projects
 
 <a name="cassie"></a>
@@ -293,3 +288,23 @@
 - Reddit-rails
  - https://polar-retreat-7464.herokuapp.com/
  - https://github.com/vivientam/reddit-railsd2.git
+
+<a name="resources"></a>
+#### Resources
+- A list of keyboard shortcuts: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/keyboard-shortcuts.md
+- TryRuby: http://tryruby.org/
+- CodeSchool Javascript: https://www.codeschool.com/paths/javascript
+- Rails Zombie: http://railsforzombies.org/
+- Dash: https://dash.generalassemb.ly/
+- Hacker News: news.ycombinator.com
+- Product Hunt: producthunt.com
+
+<a name="tools"></a>
+#### Tools
+- Waffle (www.waffle.io)
+- Dash (http://kapeli.com/dash)
+- RailsPanel (https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg)
+- Postman (https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
+- PageSpeed (https://developers.google.com/speed/pagespeed/)
+
+
