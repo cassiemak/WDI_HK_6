@@ -54,6 +54,7 @@
 - MVC Quiz: Draw out the whole MVC framework
 - Cloning Reddit on Rails
 - Learning to use Devise: https://github.com/harrychenca/reddit-rails/tree/devise
+- Instructions to install Devise: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/install-devise.md
 - Putting MVC into practice
 
 ###### Week 4 Day 4
