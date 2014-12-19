@@ -51,6 +51,10 @@ Git Shortcuts:
 
 Sublime Shortcuts:
 - cmd + k + b = show/hide folder
+- cmd + shift + f = find text throughout the entire project folder
+- cmd + d = find and select the same text
+- cmd + control + g = find and select ALL the same text
+- cmd + a number = show the corresponding number of panes inside sublime
 
 Spectacle commands:
 - cmd + option + left/up/right/down
