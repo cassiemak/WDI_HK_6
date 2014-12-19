@@ -6,6 +6,7 @@
 ###### You can ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
 
 ###### Contents
+* [Winter Holidays](#winter)
 * [Week 5](#week5)
 * [Week 4](#week4)
 * [Week 3](#week3)
@@ -31,15 +32,37 @@
 [Tools](#tools)
 
 ==================
+<a name="winter"></a>
+#### Winter Holidays
+- WORK ON YOUR PERSONAL PROJECT =)
+- Update on waffle.io on your progress
+- Ask us any questions anytime
+- Review previous materials
+
 <a name="week5"></a>
 #### Week 5
 
-###### Week 5 Day 3
+###### Week 5 Day 5
+- Morning standup
+- Personal Project Time
+- Farewell Lunch with Victor
+
+###### Week 5 Day 4
+- Morning standup
+- Personal Project Time
 - Dash: Offline software documentations (http://kapeli.com/dash)
+- Waffle.io
+- WDI 5 Presentation
+
+###### Week 5 Day 3
+- Alternative way to do Ajax Commenting
+- Dash: Offline software documentations (http://kapeli.com/dash)
+- Waffle.io
+- Personal Project Time
 
 ###### Week 5 Day 2
 - Ajax Commenting Challenge
-  - Possible Solution: https://github.com/harrychenca/reddit-rails/tree/ajax-comment-1
+  - Possible Solution: https://github.com/harrychenca/reddit-rails/tree/ajax-comment-2
 - MVC Structure Review
 - User Authenticate Validation (Devise)
 
