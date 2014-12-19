@@ -23,6 +23,9 @@
 
 ###### Additional Resources
 [Resources](#resources)
+* [Keyboard Shortcuts](#shortcuts)
+* [Rails Gems](#railsgems)
+* [General](#general)
 
 ###### Great tools
 [Tools](#tools)
@@ -292,7 +295,16 @@
 
 <a name="resources"></a>
 #### Resources
+<a name="shortcuts"></a>
 - A list of keyboard shortcuts: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/keyboard-shortcuts.md
+
+<a name="railsgems"></a>
+- RailsCasts (tutorials on different gems): http://railscasts.com/
+- Uploading Files #1: https://github.com/carrierwaveuploader/carrierwave
+- Uploading Files #2: https://github.com/thoughtbot/paperclip
+- Social Login: https://github.com/intridea/omniauth
+
+<a name="general"></a>
 - TryRuby: http://tryruby.org/
 - CodeSchool Javascript: https://www.codeschool.com/paths/javascript
 - Rails Zombie: http://railsforzombies.org/
