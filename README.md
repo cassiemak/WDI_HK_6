@@ -26,6 +26,7 @@
 [Resources](#resources)
 * [Keyboard Shortcuts](#shortcuts)
 * [Rails Gems](#railsgems)
+* [Other Libraries](#otherlib)
 * [General](#general)
 
 ###### Great tools
@@ -328,6 +329,16 @@
 - Uploading Files #1: https://github.com/carrierwaveuploader/carrierwave
 - Uploading Files #2: https://github.com/thoughtbot/paperclip
 - Social Login: https://github.com/intridea/omniauth
+
+<a name="otherlib"></a>
+###### Other libraries
+- Bootstrap with Material UI: https://fezvrasta.github.io/bootstrap-material-design/#about
+- Material UI: http://material-ui.com/
+- Bootstrap: http://getbootstrap.com/
+- Jquery: http://jquery.com/
+- Foundation: http://foundation.zurb.com/
+- Font Awesome: http://fortawesome.github.io/Font-Awesome/
+- Polymer: https://www.polymer-project.org/
 
 <a name="general"></a>
 ###### General
