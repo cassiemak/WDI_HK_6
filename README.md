@@ -6,6 +6,7 @@
 ###### You can ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
 
 ###### Contents
+* [Week 6](#week6)
 * [Winter Holidays](#winter)
 * [Week 5](#week5)
 * [Week 4](#week4)
@@ -33,6 +34,34 @@
 [Tools](#tools)
 
 ==================
+<a name="week6"></a>
+#### Week 6
+<!--
+###### Week 6 Day 5
+- Morning Standup
+- Personal Project Time
+- Personal Project Presentation (afternoon)
+
+###### Week 6 Day 4
+- Morning Standup
+- Personal Project Time
+
+###### Week 6 Day 3
+- Morning Standup
+- Personal Project Time
+-->
+
+###### Week 6 Day 2
+- Morning Standup
+- Personal Project Time
+- Presentation Guideline: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/presentation-guideline.md
+- Using Paperclip and AWS S3 to upload profile pictures and other files
+
+###### Week 6 Day 1
+- WELCOME BACK AFTER WINTER HOLIDAYS!
+- Morning Standup
+- Personal Project Time
+
 <a name="winter"></a>
 #### Winter Holidays
 - WORK ON YOUR PERSONAL PROJECT =)
