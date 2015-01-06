@@ -56,6 +56,8 @@
 - Personal Project Time
 - Presentation Guideline: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/presentation-guideline.md
 - Using Paperclip and AWS S3 to upload profile pictures and other files
+  - https://github.com/thoughtbot/paperclip
+  - http://www.rubydoc.info/gems/paperclip/Paperclip/Storage/S3
 
 ###### Week 6 Day 1
 - WELCOME BACK AFTER WINTER HOLIDAYS!
