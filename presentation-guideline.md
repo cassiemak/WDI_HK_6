@@ -2,6 +2,13 @@
 
 - 7-minute presentation with 3-minute Q&A
 
+### Attire
+- DRESS TO IMPRESS
+- smart casual would be great
+
+### Manner
+- NEVER SWEAR
+
 ### Format
 - You should build a presentation slides for everything other than the actual demo (3 to 5 slides)
 - A presentation slide can be built using different apps
