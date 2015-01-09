@@ -41,7 +41,7 @@
 - Morning Standup
 - Personal Project Presentation @ 3:30 PM
   - Presentation Guideline: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/presentation-guideline.md
-  - Online Presentation Matrix: 
+  - Online Presentation Matrix: https://www.surveymonkey.com/s/GVD3X3B
   - Dale
     - Heroku: https://wantmaw.herokuapp.com/
     - Github: https://github.com/gduck/Project1
