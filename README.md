@@ -51,7 +51,7 @@
   - Denis
     - Heroku: https://boxful.herokuapp.com/
     - Github: https://github.com/dshcheung/boxful
-    - Presentation Slides:
+    - Presentation Slides: http://slides.com/harunojikan/deck#/
   - Dow
     - Heroku: https://interviewhelpapp.herokuapp.com/
     - Github: https://github.com/dowtang/interviewer
