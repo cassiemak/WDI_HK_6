@@ -50,7 +50,7 @@
   - Cassie
     - [Heroku](https://product-review.herokuapp.com/products/2)
     - [Github](https://github.com/cassiemak/XmasProject-Product-Review)
-    - [Slides](https://www.dropbox.com/s/p4bd3s3ciillp9i/WDI%20Project%201.pptx?dl=0)
+    - [Slides](https://www.dropbox.com/s/41jidr449d5fsjr/Cassie%20-%20WDI%20Project%201.pptx?dl=0)
     - [Youtube Video](http://youtu.be/u66aPpeD3lQ)
   - Denis
     - [Heroku](https://boxful.herokuapp.com/)
@@ -60,7 +60,7 @@
   - Dow
     - [Heroku](https://interviewhelpapp.herokuapp.com/)
     - [Github](https://github.com/dowtang/interviewer)
-    - [Slides](https://www.dropbox.com/s/237dqlc9wmfprvx/Interview%20Project%20Presentation.pptx?dl=0)
+    - [Slides](https://www.dropbox.com/s/r9myxngngg0itzj/Dow%20-%20Interview%20Project%20Presentation.pptx?dl=0)
     - [Youtube Video](http://youtu.be/1FA6aKWw5ao)
   - Clement
     - [Heroku](https://thegameexchange-cchchoi1986.herokuapp.com/)
