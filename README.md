@@ -36,16 +36,39 @@
 ==================
 <a name="week6"></a>
 #### Week 6
-<!--
+
 ###### Week 6 Day 5
 - Morning Standup
-- Personal Project Time
-- Personal Project Presentation (afternoon)
+- Personal Project Presentation @ 3:30 PM
+  - Dale
+    - Heroku: https://wantmaw.herokuapp.com/
+    - Github: https://github.com/gduck/Project1
+    - Presentation Slides:
+  - Cassie
+    - Heroku: https://product-review.herokuapp.com/products/2
+    - Github: https://github.com/cassiemak/XmasProject-Product-Review
+    - Presentation Slides:
+  - Denis
+    - Heroku: https://boxful.herokuapp.com/
+    - Github: https://github.com/dshcheung/boxful
+    - Presentation Slides:
+  - Dow
+    - Heroku: https://interviewhelpapp.herokuapp.com/
+    - Github: https://github.com/dowtang/interviewer
+    - Presentation Slides:
+  - Clement
+    - Heroku: https://thegameexchange-cchchoi1986.herokuapp.com/
+    - Github: https://github.com/cchchoi1986/thegameexchange
+    - Presentation Slides:
+  - Vivien
+    - Heroku: https://diabetescured.herokuapp.com/readings
+    - Github: https://github.com/vivientam/diabetes
+    - Presentation Slides:
 
 ###### Week 6 Day 4
 - Morning Standup
 - Personal Project Time
--->
+- STAY UNTIL 12AM!!!
 
 ###### Week 6 Day 3
 - Morning Standup
@@ -251,6 +274,9 @@
 - Reddit-rails
   - https://sassy-reddit.herokuapp.com/
   - https://github.com/cassiemak/reddit-rails
+- Project #1
+  - https://product-review.herokuapp.com/products/2
+  - https://github.com/cassiemak/XmasProject-Product-Review
 
 <a name="clement"></a>
 ###### Clement
@@ -273,6 +299,9 @@
 - Reddit-rails
   - https://cchchoi1986-reddit-rails.herokuapp.com/ not working yet
   - https://github.com/cchchoi1986/reddit-rails
+- Project #1
+  - https://thegameexchange-cchchoi1986.herokuapp.com/
+  - https://github.com/cchchoi1986/thegameexchange
 
 <a name="dale"></a>
 ###### Dale
@@ -294,6 +323,9 @@
 - Reddit-rails
   - https://shielded-cove-8764.herokuapp.com/
   - https://github.com/gduck/reddit-for-rails
+- Project #1
+  - https://wantmaw.herokuapp.com/
+  - https://github.com/gduck/Project1
 
 <a name="denis"></a>
 ###### Denis
@@ -315,6 +347,9 @@
 - Reddit-rails
   - https://stormy-inlet-9337.herokuapp.com/
   - https://github.com/dshcheung/reddit-rails
+- Project #1
+  - https://boxful.herokuapp.com/
+  - https://github.com/dshcheung/boxful
 
 <a name="dow"></a>
 ###### Dow
@@ -328,6 +363,9 @@
 - HighChart Annotation
 - Reddit-rails
   - https://github.com/dowtang/reddit-rails.git
+- Project #1
+  - https://interviewhelpapp.herokuapp.com/
+  - https://github.com/dowtang/interviewer
 
 <a name="vivien"></a>
 ###### Vivien
@@ -348,6 +386,9 @@
 - Reddit-rails
  - https://polar-retreat-7464.herokuapp.com/
  - https://github.com/vivientam/reddit-railsd2.git
+- Project #1
+  - https://diabetescured.herokuapp.com/readings
+  - https://github.com/vivientam/diabetes
 
 <a name="resources"></a>
 #### Resources
