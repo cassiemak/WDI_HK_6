@@ -47,7 +47,7 @@
   - Cassie
     - Heroku: https://product-review.herokuapp.com/products/2
     - Github: https://github.com/cassiemak/XmasProject-Product-Review
-    - Presentation Slides:
+    - Presentation Slides: https://www.dropbox.com/s/p4bd3s3ciillp9i/WDI%20Project%201.pptx?dl=0
   - Denis
     - Heroku: https://boxful.herokuapp.com/
     - Github: https://github.com/dshcheung/boxful
