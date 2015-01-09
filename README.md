@@ -40,6 +40,8 @@
 ###### Week 6 Day 5
 - Morning Standup
 - Personal Project Presentation @ 3:30 PM
+  - Presentation Guideline: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/presentation-guideline.md
+  - Online Presentation Matrix: 
   - Dale
     - Heroku: https://wantmaw.herokuapp.com/
     - Github: https://github.com/gduck/Project1
