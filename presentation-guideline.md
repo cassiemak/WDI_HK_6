@@ -45,6 +45,9 @@
 	- Quickly go through other supporting features 
 - 3 mistakes you have made (1’30’’)
 	- eg. planning, scoping, coding, etc
+- Going forward (15’’)
+	- eg. What are you going to do with this project in the future?
+	- NOTE: for the rest of the presentation, only talk about what you've done, not what you are planning to do
 
 ### Things your project *should* demonstrate
 - Business rationales
