@@ -41,31 +41,37 @@
 - Morning Standup
 - Personal Project Presentation @ 3:30 PM
   - Presentation Guideline: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/presentation-guideline.md
-  - Online Presentation Matrix: https://www.surveymonkey.com/s/GVD3X3B
+  - Online Presentation Matrix:
+    - [Dale](https://www.surveymonkey.com/s/GD58VHC)
+    - [Cassie](https://www.surveymonkey.com/s/GYD86PX)
+    - [Denis](https://www.surveymonkey.com/s/GY723J2)
+    - [Dow](https://www.surveymonkey.com/s/GYKZBM8)
+    - [Clement](https://www.surveymonkey.com/s/GYL3KLJ)
+    - [Vivien](https://www.surveymonkey.com/s/GYY9DSJ) 
   - Dale
-    - Heroku: https://wantmaw.herokuapp.com/
-    - Github: https://github.com/gduck/Project1
-    - Presentation Slides:
+    - [Heroku](https://wantmaw.herokuapp.com/)
+    - [Github](https://github.com/gduck/Project1)
+    - [Slides](https://www.dropbox.com/s/qwmb781mvggynut/Dale%20-%20slides.pdf?dl=0)
   - Cassie
-    - Heroku: https://product-review.herokuapp.com/products/2
-    - Github: https://github.com/cassiemak/XmasProject-Product-Review
-    - Presentation Slides: https://www.dropbox.com/s/p4bd3s3ciillp9i/WDI%20Project%201.pptx?dl=0
+    - [Heroku](https://product-review.herokuapp.com/products/2)
+    - [Github](https://github.com/cassiemak/XmasProject-Product-Review)
+    - [Slides](https://www.dropbox.com/s/p4bd3s3ciillp9i/WDI%20Project%201.pptx?dl=0)
   - Denis
-    - Heroku: https://boxful.herokuapp.com/
-    - Github: https://github.com/dshcheung/boxful
-    - Presentation Slides: http://slides.com/harunojikan/deck#/
+    - [Heroku](https://boxful.herokuapp.com/)
+    - [Github](https://github.com/dshcheung/boxful)
+    - [Slides](http://slides.com/harunojikan/deck#/)
   - Dow
-    - Heroku: https://interviewhelpapp.herokuapp.com/
-    - Github: https://github.com/dowtang/interviewer
-    - Presentation Slides:
+    - [Heroku](https://interviewhelpapp.herokuapp.com/)
+    - [Github](https://github.com/dowtang/interviewer)
+    - [Slides](https://www.dropbox.com/s/237dqlc9wmfprvx/Interview%20Project%20Presentation.pptx?dl=0)
   - Clement
-    - Heroku: https://thegameexchange-cchchoi1986.herokuapp.com/
-    - Github: https://github.com/cchchoi1986/thegameexchange
-    - Presentation Slides:
+    - [Heroku](https://thegameexchange-cchchoi1986.herokuapp.com/)
+    - [Github](https://github.com/cchchoi1986/thegameexchange)
+    - [Slides](https://docs.google.com/presentation/d/1Z2-XJWIfEx2CuhPs4ymBTmYDstxKGM4hM8Y4vI1oueU/edit)
   - Vivien
-    - Heroku: https://diabetescured.herokuapp.com/readings
-    - Github: https://github.com/vivientam/diabetes
-    - Presentation Slides:
+    - [Heroku](https://diabetescured.herokuapp.com/readings)
+    - [Github](https://github.com/vivientam/diabetes)
+    - [Slides](https://www.dropbox.com/s/rchgkzrqthig997/Vivien%20-%20DiabetesVivien.pdf?dl=0)
 
 ###### Week 6 Day 4
 - Morning Standup
