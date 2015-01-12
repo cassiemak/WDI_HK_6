@@ -6,6 +6,7 @@
 ###### You can ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
 
 ###### Contents
+* [Week 7](#week7)
 * [Week 6](#week6)
 * [Winter Holidays](#winter)
 * [Week 5](#week5)
@@ -34,6 +35,13 @@
 [Tools](#tools)
 
 ==================
+
+<a name="week7"></a>
+#### Week 7
+
+###### Week 7 Day 1
+- Nokogiri Lesson plan: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/nokogiri-lesson.md
+
 <a name="week6"></a>
 #### Week 6
 
