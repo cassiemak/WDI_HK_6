@@ -1,5 +1,8 @@
 # Create a brand new Rails app
 - You can follow instructions here: https://github.com/HK-WDI-November-2014/rails-basic-template
+- Push to Github
+- Push to Heroku
+- Send the links to Harry's hipchat
 
 # Get Kimono
 1. Check out https://www.kimonolabs.com/
