@@ -86,7 +86,7 @@ namespace :scrape do
     # this parse the site using Nokogiri
     html_doc = Nokogiri::HTML(document)
 
-    # this is the format of what we want. I get this from Kimono
+    # this is the format of what we want. I get this from Kimono where you have highlighted these items
     data_format = "div.id-incannualdiv > table.gf-table.rgt > tbody > tr > td.lft.lm"
 
     # use nokogiri to get all the data that shares the common format
@@ -95,6 +95,25 @@ namespace :scrape do
     puts row_names
   end
 end
+```
+
+# Parsing CSV to get NASDAQ companies
+```ruby
+  desc "Scrape companies"
+  task :make_companies => :environment do
+    require 'open-uri'
+    require 'nokogiri'
+    require 'csv'
+
+    url = "http://s3.amazonaws.com/nvest/nasdaq_09_11_2014.csv"
+
+    url_data = open(url)
+
+    CSV.foreach(url_data) do |symbol, name|
+      puts "#{name}: #{symbol}"
+      # Company.create(:name => name, :symbol => symbol)
+    end
+  end
 ```
 
 # Storing data
