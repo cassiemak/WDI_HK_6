@@ -10,15 +10,14 @@
 	- screenshots
 
 # Add `nokogiri` gem to Rails app
-1. ```
-gem ‘nokogiri’
-```
+1. `gem 'nokogiri'`
 2. Install library with `bundle install`
 
 # Creating a rake task
 - https://github.com/HK-WDI-November-2014/student-course-everything/issues/37
 1. First create a `task_file_name.rake` file in `lib/tasks` folder. (eg. scrape.rake)
 2. Template for a Rails rake job:
+
 ```ruby
 namespace :task_file_name do
   # this is a description of your task
