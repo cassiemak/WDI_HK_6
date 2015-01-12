@@ -102,7 +102,6 @@ end
   desc "Scrape companies"
   task :make_companies => :environment do
     require 'open-uri'
-    require 'nokogiri'
     require 'csv'
 
     url = "http://s3.amazonaws.com/nvest/nasdaq_09_11_2014.csv"
