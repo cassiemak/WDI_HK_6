@@ -33,6 +33,11 @@ namespace :task_file_name do
 end
 ```
 
+# To Run a Rake Task
+```terminal
+rake task_file_name:task_name
+```
+
 For example, you can do the following
 ```
 namespace :scrape do
