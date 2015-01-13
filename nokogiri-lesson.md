@@ -186,5 +186,48 @@ class CreateAnnualincomes < ActiveRecord::Migration
 end
 ```
 
+# Storing Annualincome data for each company in our database
+
+```ruby
+namespace :scrape do 
+  desc "Scraping Google Finance Fundamentals Data"
+  task :google_finance => :environment do
+    Company.all.each do |company|
+      record_data(company)
+    end
+  end
+
+  def record_data(company)
+    require 'open-uri'
+    require 'nokogiri'
+
+    url = "http://www.google.ca/finance?q="+company.symbol.upcase+"&fstype=ii"
+
+    document = open(url).read
+    html_doc = Nokogiri::HTML(document)
+
+    # columns 
+    # puts html_doc.css("div.id-incannualdiv > table.gf-table.rgt > tbody > tr > td.lft.lm").text
+    # puts html_doc.css("div.id-incannualdiv > table.gf-table.rgt > tbody > tr > td:nth-child(2).r").text
+    # puts html_doc.css("div.id-incannualdiv > table.gf-table.rgt > tbody > tr > td:nth-child(3).r").text
+    # puts html_doc.css("div.id-incannualdiv > table.gf-table.rgt > tbody > tr > td:nth-child(4).r").text
+    # puts html_doc.css("div.id-incannualdiv > table.gf-table.rgt > tbody > tr > td.r.rm").text
+
+    details = html_doc.css("div.id-incannualdiv > table.gf-table.rgt > tbody > tr > td.r.rm")
+
+    if not details.any?
+      return
+    end
+    
+    new_record = company.annualincomes.new
+
+    Annualincome.columns[4..52].each_with_index do |column, index|
+      new_record["#{column.name}"] = details[index].text
+      new_record.save
+    end
+  end
+end
+```
+
 # Displaying data
 1. Create views to index and show company
