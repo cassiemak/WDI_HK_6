@@ -39,6 +39,10 @@
 <a name="week7"></a>
 #### Week 7
 
+###### Week 7 Day 3
+- Preprocessors and Compiled languages: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/preprocessors_&_compiled_languages.md
+- Challenge: Scrape a site of your choice and display data
+
 ###### Week 7 Day 2
 - Continue on Nokogiri: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/nokogiri-lesson.md
 - Challenge: Scrape a site of your choice and display data
