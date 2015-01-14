@@ -72,6 +72,8 @@ Docs: [CoffeeScript.org](http://coffeescript.org/)
 
 Learn with interactive book: [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/)
 
+Google Chrome Extension (Command+Enter or Shift+Enter to run the script you've typed in CoffeeConsole): [CoffeeConsole2](https://chrome.google.com/webstore/detail/coffeeconsole-2/kcdehbekjjicimoacajfpcpihajfnbfp?hl=en-US)
+
 Add to Gemfile:
 
         gem 'coffee-script'
