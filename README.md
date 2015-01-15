@@ -39,9 +39,13 @@
 <a name="week7"></a>
 #### Week 7
 
-###### Week 7 Day 3
+###### Week 7 Day 4
+- Group project presentation
 - Preprocessors and Compiled languages: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/preprocessors_&_compiled_languages.md
+
+###### Week 7 Day 3
 - Challenge: Scrape a site of your choice and display data
+- Form group for group project
 
 ###### Week 7 Day 2
 - Continue on Nokogiri: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/nokogiri-lesson.md
