@@ -1,17 +1,17 @@
-Executive Summary
+#### Executive Summary
 
-Table of Contents
+#### Table of Contents
 
-Introduction
+#### Introduction
 - Business Rationales
 
-Requirements
+#### Requirements
 - Scope of the Project
 - Timeline of the Project
 - FOC Chart (function, objective, constraints)
 - Define top 3 priority features
 
-Design
+#### Design
 - A list of technologies you will be using (frameworks, database, languages, libraries/gems)
 - Wire framing + use pen and paper / digital
 	- Explain the user interface elements
