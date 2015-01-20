@@ -1,3 +1,5 @@
+## Project 2 Design Document Recommended Guideline
+
 #### Executive Summary
 
 #### Table of Contents
@@ -15,9 +17,8 @@
 - A list of technologies you will be using (frameworks, database, languages, libraries/gems)
 - Wire framing + use pen and paper / digital
 	- Explain the user interface elements
-	- Use tools
+	- Use Wireframing tools
 		- Balsamiq
-		- Wireframing
 		- UXPin
 		- Proto.io
 		- LucidChart
