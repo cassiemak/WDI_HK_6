@@ -36,9 +36,13 @@
 
 ==================
 
+https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
+
+
 <a name="week7"></a>
 #### Week 7
 
+###### Week 7 Day 4
 ###### Week 7 Day 4
 - Group project presentation
 - Preprocessors and Compiled languages: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/preprocessors_&_compiled_languages.md
