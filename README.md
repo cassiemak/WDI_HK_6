@@ -6,6 +6,7 @@
 ###### You can ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
 
 ###### Contents
+* [Week 8](#week8)
 * [Week 7](#week7)
 * [Week 6](#week6)
 * [Winter Holidays](#winter)
@@ -39,10 +40,21 @@
 https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
 
 
+<a name="week8"></a>
+#### Week 8
+
+###### Week 8 Day 2
+- Project 2 Design Documents: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
+
+###### Week 8 Day 1
+- Angular Notes:
+
 <a name="week7"></a>
 #### Week 7
 
-###### Week 7 Day 4
+###### Week 7 Day 5
+- Angular notes:
+
 ###### Week 7 Day 4
 - Group project presentation
 - Preprocessors and Compiled languages: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/preprocessors_&_compiled_languages.md
