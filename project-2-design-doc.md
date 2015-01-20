@@ -1,4 +1,5 @@
 ## Project 2 Design Document Recommended Guideline
+- Document Type: Word, PDF, HTML, others
 
 #### Executive Summary
 
