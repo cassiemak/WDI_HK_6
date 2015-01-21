@@ -46,6 +46,13 @@ https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/pr
 <a name="week8"></a>
 #### Week 8
 
+###### Week 8 Day 3
+- Project #2 Design Documents:
+  - Clement and Denis: https://docs.google.com/presentation/d/1xbo8G_xCspXzK7BsP9lJgTxQOAtgZsPGcP60NSI-sTE/edit#slide=id.g5865f8b4e_021
+  - Dow and Vivien:
+  - Cassie and Dale:
+- Code Challenges: https://github.com/HK-WDI-November-2014/challenges
+
 ###### Week 8 Day 2
 - Project 2 Design Documents: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
 
