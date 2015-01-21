@@ -35,6 +35,9 @@
 ###### Great tools
 [Tools](#tools)
 
+###### GA Perks
+- https://generalassemb.ly/alumni/perks
+
 ==================
 
 https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
