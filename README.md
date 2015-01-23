@@ -76,6 +76,7 @@ https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/pr
 ###### Week 7 Day 2
 - Continue on Nokogiri: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/nokogiri-lesson.md
 - Challenge: Scrape a site of your choice and display data
+- Object Oriented Programming: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/oop-exercises.md
 
 ###### Week 7 Day 1
 - One-on-one with Justin
