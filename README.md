@@ -48,7 +48,7 @@ https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/pr
 
 ###### Week 8 Day 5
 - Group Project time
-- Code Challenge Answers:
+- Code Challenge Answers: https://github.com/HK-WDI-November-2014/challenges/blob/master/javascript-challenge-answer-2.md
 - Code Challenge Questions: https://github.com/HK-WDI-November-2014/challenges/blob/master/css-challenge-1.md
 
 ###### Week 8 Day 4
