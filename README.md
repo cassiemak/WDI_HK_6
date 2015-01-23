@@ -48,16 +48,28 @@ https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/pr
 
 ###### Week 8 Day 5
 - Group Project time
+- Code Challenge Answers:
+- Code Challenge Questions: https://github.com/HK-WDI-November-2014/challenges/blob/master/css-challenge-1.md
 
 ###### Week 8 Day 4
 - Group Project time
+- Project #2 Links:
+  - Clement and Denis:
+    - Github: https://github.com/dshcheung/recipedb.me
+    - Heroku: https://recipedb-me.herokuapp.com/
+  - Dow and Vivien:
+    - Github: https://github.com/dowtang/foodmagic
+    - Heroku: 
+  - Cassie and Dale:
+    - Github: https://github.com/gduck/fritter
+    - Heroku: 
 
 ###### Week 8 Day 3
 - Project #2 Design Documents:
   - Clement and Denis: https://docs.google.com/presentation/d/1xbo8G_xCspXzK7BsP9lJgTxQOAtgZsPGcP60NSI-sTE/edit#slide=id.g5865f8b4e_021
   - Dow and Vivien: https://www.dropbox.com/s/qd6vxi7jd6p43ge/FoodMagic%20Presentation.key?dl=0
   - Cassie and Dale: https://docs.google.com/a/generalassemb.ly/document/d/1JanTKxI8oH81IaNd6OuHd1qt16H5Xl5CH2jWVjJJcBQ/edit
-- Code Challenges: https://github.com/HK-WDI-November-2014/challenges
+- Code Challenges: https://github.com/HK-WDI-November-2014/challenges/blob/master/past%2Fjavascript-challenge-2.md
 
 ###### Week 8 Day 2
 - Project 2 Design Documents: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
