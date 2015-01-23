@@ -46,6 +46,12 @@ https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/pr
 <a name="week8"></a>
 #### Week 8
 
+###### Week 8 Day 5
+- Group Project time
+
+###### Week 8 Day 4
+- Group Project time
+
 ###### Week 8 Day 3
 - Project #2 Design Documents:
   - Clement and Denis: https://docs.google.com/presentation/d/1xbo8G_xCspXzK7BsP9lJgTxQOAtgZsPGcP60NSI-sTE/edit#slide=id.g5865f8b4e_021
@@ -63,7 +69,7 @@ https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/pr
 #### Week 7
 
 ###### Week 7 Day 5
-- Angular notes:
+- Angular notes: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/angular-setup.md
 
 ###### Week 7 Day 4
 - Group project presentation
