@@ -44,14 +44,16 @@ https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/pr
 
 #### Project #2 Links:
 ###### Dow and Vivien:
-  - Github: https://github.com/dowtang/foodmagic
-  - Heroku: 
+- Github: https://github.com/dowtang/foodmagic
+- Heroku: 
+
 ###### Cassie and Dale:
-  - Github: https://github.com/gduck/fritter
-  - Heroku: https://wdi-fritter.herokuapp.com/
+- Github: https://github.com/gduck/fritter
+- Heroku: https://wdi-fritter.herokuapp.com/
+
 ###### Clement and Denis:
-  - Github: https://github.com/dshcheung/recipedb.me
-  - Heroku: https://recipedb-me.herokuapp.com/
+- Github: https://github.com/dshcheung/recipedb.me
+- Heroku: https://recipedb-me.herokuapp.com/
 
 <a name="week8"></a>
 #### Week 8
