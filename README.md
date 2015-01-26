@@ -42,6 +42,16 @@
 
 https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
 
+#### Project #2 Links:
+###### Dow and Vivien:
+  - Github: https://github.com/dowtang/foodmagic
+  - Heroku: 
+###### Cassie and Dale:
+  - Github: https://github.com/gduck/fritter
+  - Heroku: https://wdi-fritter.herokuapp.com/
+###### Clement and Denis:
+  - Github: https://github.com/dshcheung/recipedb.me
+  - Heroku: https://recipedb-me.herokuapp.com/
 
 <a name="week8"></a>
 #### Week 8
@@ -53,16 +63,6 @@ https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/pr
 
 ###### Week 8 Day 4
 - Group Project time
-- Project #2 Links:
-  - Clement and Denis:
-    - Github: https://github.com/dshcheung/recipedb.me
-    - Heroku: https://recipedb-me.herokuapp.com/
-  - Dow and Vivien:
-    - Github: https://github.com/dowtang/foodmagic
-    - Heroku: 
-  - Cassie and Dale:
-    - Github: https://github.com/gduck/fritter
-    - Heroku: 
 
 ###### Week 8 Day 3
 - Project #2 Design Documents:
