@@ -6,6 +6,8 @@
 ###### You can ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
 
 ###### Contents
+
+* [Week 9](#week9)
 * [Week 8](#week8)
 * [Week 7](#week7)
 * [Week 6](#week6)
@@ -54,6 +56,21 @@ https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/pr
 ###### Clement and Denis:
 - Github: https://github.com/dshcheung/recipedb.me
 - Heroku: https://recipedb-me.herokuapp.com/
+
+<a name="week9"></a>
+#### Week 9
+
+###### Week 9 Day 4
+- Challenge: https://github.com/HK-WDI-November-2014/challenges/blob/master/javascript-challenge-3.md
+
+###### Week 9 Day 3
+- To be added
+
+###### Week 9 Day 2
+- To be added
+
+###### Week 9 Day 1
+- To be added
 
 <a name="week8"></a>
 #### Week 8
