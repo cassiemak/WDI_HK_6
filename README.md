@@ -6,7 +6,10 @@
 ###### You can ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
 
 ###### Contents
-
+<!--* [Week 13](#week13)-->
+<!--* [Week 12](#week12)-->
+<!--* [Week 11](#week11)-->
+* [Week 10](#week10)
 * [Week 9](#week9)
 * [Week 8](#week8)
 * [Week 7](#week7)
@@ -57,20 +60,24 @@ https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/pr
 - Github: https://github.com/dshcheung/recipedb.me
 - Heroku: https://recipedb-me.herokuapp.com/
 
+<!--<a name="week13"></a>-->
+<!--#### Week 13-->
+
+<!--<a name="week12"></a>-->
+<!--#### Week 12-->
+
+<!--<a name="week11"></a>-->
+<!--#### Week 11-->
+
+<a name="week10"></a>
+#### Week 10
+- Group Project time
+- User Testing Guidelines: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/user-testing.md
+
 <a name="week9"></a>
 #### Week 9
-
-###### Week 9 Day 4
+- Group Project time
 - Challenge: https://github.com/HK-WDI-November-2014/challenges/blob/master/javascript-challenge-3.md
-
-###### Week 9 Day 3
-- To be added
-
-###### Week 9 Day 2
-- To be added
-
-###### Week 9 Day 1
-- To be added
 
 <a name="week8"></a>
 #### Week 8
