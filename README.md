@@ -45,21 +45,6 @@
 
 ==================
 
-https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
-
-#### Project #2 Links:
-###### Dow and Vivien:
-- Github: https://github.com/dowtang/foodmagic
-- Heroku: 
-
-###### Cassie and Dale:
-- Github: https://github.com/gduck/fritter
-- Heroku: https://wdi-fritter.herokuapp.com/
-
-###### Clement and Denis:
-- Github: https://github.com/dshcheung/recipedb.me
-- Heroku: https://recipedb-me.herokuapp.com/
-
 <!--<a name="week13"></a>-->
 <!--#### Week 13-->
 
@@ -71,6 +56,24 @@ https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/pr
 
 <a name="week10"></a>
 #### Week 10
+
+###### Week 10 Day 5
+- https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
+
+###### Project #2 Links:
+####### Dow and Vivien:
+- Github: https://github.com/dowtang/foodmagic
+- Heroku: https://foodmagic.herokuapp.com/
+
+####### Cassie and Dale:
+- Github: https://github.com/gduck/fritter
+- Heroku: https://wdi-fritter.herokuapp.com/
+
+####### Clement and Denis:
+- Github: https://github.com/dshcheung/recipedb.me
+- Heroku: https://recipedb-me.herokuapp.com/
+
+###### Week 10 Day 1 - 4
 - Group Project time
 - User Testing Guidelines: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/user-testing.md
 
