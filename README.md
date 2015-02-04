@@ -57,21 +57,26 @@
 <a name="week10"></a>
 #### Week 10
 
-###### Week 10 Day 5
+###### Week 10 Day 5 (PROJECT 2 PRESENTATION DAY!)
 - https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
-
-###### Project #2 Links:
-####### Dow and Vivien:
-- Github: https://github.com/dowtang/foodmagic
-- Heroku: https://foodmagic.herokuapp.com/
-
-####### Cassie and Dale:
-- Github: https://github.com/gduck/fritter
-- Heroku: https://wdi-fritter.herokuapp.com/
-
-####### Clement and Denis:
-- Github: https://github.com/dshcheung/recipedb.me
-- Heroku: https://recipedb-me.herokuapp.com/
+- Time of Presentation: Friday Feb 6th 2015 - 6:30pm
+- Location of Presentation: Batman Room, 8/F 33 Des Voeux Road, Central (Central Station Exit B)
+- Project #2 Links:
+  - Dow and Vivien:
+    - [Presentation slides]()
+    - [Github](https://github.com/dowtang/foodmagic)
+    - [Heroku](https://foodmagic.herokuapp.com/)
+    - [Youtube (not uploaded yet)]()
+  - Cassie and Dale:
+    - [Presentation slides]()
+    - [Github](https://github.com/gduck/fritter)
+    - [Heroku](https://wdi-fritter.herokuapp.com/)
+    - [Youtube (not uploaded yet)]()
+  - Clement and Denis:
+    - [Presentation slides]()
+    - [Github](https://github.com/dshcheung/recipedb.me)
+    - [Heroku](https://recipedb-me.herokuapp.com/)
+    - [Youtube (not uploaded yet)]()
 
 ###### Week 10 Day 1 - 4
 - Group Project time
