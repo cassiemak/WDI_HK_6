@@ -61,6 +61,7 @@
 - https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
 - Time of Presentation: Friday Feb 6th 2015 - 6:30pm
 - Location of Presentation: Batman Room, 8/F 33 Des Voeux Road, Central (Central Station Exit B)
+- Presentation Guidelines: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/presentation-guidelines-%232.md
 - Project #2 Links:
   - FoodMagic:
     - BY Dow and Vivien
