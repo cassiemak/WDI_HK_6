@@ -7,7 +7,7 @@
 - Drinks and party: Post-8pm
 
 ### Format
-- Presentation Time: 24 minutes
+- Presentation Time: 20 - 24 minutes
 - Q & A: 6 minutes
 - Presentations will be live-streamed online via Google Hangout on Air
 - A survey (Survey Monkey) for each project/presentation will be available online for audience
