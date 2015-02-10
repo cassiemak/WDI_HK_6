@@ -8,7 +8,7 @@
 ###### Contents
 <!--* [Week 13](#week13)-->
 <!--* [Week 12](#week12)-->
-<!--* [Week 11](#week11)-->
+* [Week 11](#week11)
 * [Week 10](#week10)
 * [Week 9](#week9)
 * [Week 8](#week8)
@@ -51,13 +51,21 @@
 <!--<a name="week12"></a>-->
 <!--#### Week 12-->
 
-<!--<a name="week11"></a>-->
-<!--#### Week 11-->
+<a name="week11"></a>
+#### Week 11
+
+###### Week 11 Day 2
+- Ionic Introduction: https://github.com/HK-WDI-November-2014/ionic-intro
+
+###### Week 11 Day 1
+- Project Idea Brainstorming and Design Documenting writing
 
 <a name="week10"></a>
 #### Week 10
 
 ###### Week 10 Day 5 (PROJECT 2 PRESENTATION DAY!)
+- Live streamed Presentations: http://youtu.be/V8xUNCZeG38
+- Summary Site: https://wdi6hk.herokuapp.com
 - https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/project-2-design-doc.md
 - Time of Presentation: Friday Feb 6th 2015 - 6:30pm
 - Location of Presentation: Batman Room, 8/F 33 Des Voeux Road, Central (Central Station Exit B)
