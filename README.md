@@ -53,6 +53,34 @@
 
 <a name="week11"></a>
 #### Week 11
+###### CAPSTONE PROjects
+- Colorful Blind:
+  - BY Vivien
+  - [Design Document](https://drive.google.com/file/d/0B0WtIf3Op-CGa2FBRVk3bkh1bFF1cFRuNFpxT3dEZEFOUDR3/view?usp=sharing)
+  - [Github](https://github.com/vivientam/colorfulblind)
+  - [Heroku](https://colorfulblind.herokuapp.com)
+- Birthday Newz:
+  - BY Dale
+  - [Design Document](https://docs.google.com/a/generalassemb.ly/document/d/12G2L22AfFSwab8EO_Yl6tkqJL5WyyxsR4LAqzAZ6Pqs/edit)
+  - [Github](https://github.com/gduck/newz)
+  - [Heroku](https://birthday-newz.herokuapp.com)
+- Property Finder:
+  - BY Dow
+  - [Design Document (missing)]()
+  - [Github](https://github.com/dowtang/findproperty)
+  - [Heroku](https://findproperty.herokuapp.com/)
+- HikeMapper:
+  - BY Cassie and Clement
+  - [Design Document](https://docs.google.com/a/generalassemb.ly/document/d/1oNZrvtdOy6T5ctmQWAYk4s8uuhtRn5xWdn0JwrQLa-Q/edit)
+  - [Web App Github](https://github.com/cchchoi1986/hikehk)
+  - [Web App Heroku](https://hikehk.herokuapp.com)
+  - [Mobile App Github](https://github.com/cchchoi1986/hikehk-mobile)
+  - [Mobile App Heroku (missing)]()
+- (Project Name):
+  - BY Denis
+  - [Design Document](https://docs.google.com/presentation/d/11tBQ-3EFnu31h1Crz_PotAPnY9w9SnqqopT4NVO0Ouo/edit#slide=id.g78f14fd9e_210)
+  - [Github (missing)]()
+  - [Heroku (missing)]()
 
 ###### Week 11 Day 3
 - Design Document Due Date
