@@ -7,7 +7,7 @@
 
 ###### Contents
 <!--* [Week 13](#week13)-->
-<!--* [Week 12](#week12)-->
+* [Week 12](#week12)
 * [Week 11](#week11)
 * [Week 10](#week10)
 * [Week 9](#week9)
@@ -48,11 +48,15 @@
 <!--<a name="week13"></a>-->
 <!--#### Week 13-->
 
-<!--<a name="week12"></a>-->
-<!--#### Week 12-->
-
+<a name="week12"></a>
+#### Week 12
+###### Week 12 Day 2
+- Rspec Testing:
+  - https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/rspec_testing.md
+  - https://github.com/HK-WDI-November-2014/test-reddit-rails
+  
 <a name="week11"></a>
-#### Week 11
+#### Week 11 - 13
 ###### CAPSTONE PROjects
 - Colorful Blind:
   - BY Vivien
