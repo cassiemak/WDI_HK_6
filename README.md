@@ -7,6 +7,7 @@
 
 ###### Contents
 <!--* [Week 13](#week13)-->
+* [Capstone (Week 11-13)](#capstone)
 * [Week 12](#week12)
 * [Week 11](#week11)
 * [Week 10](#week10)
@@ -45,19 +46,8 @@
 
 ==================
 
-<!--<a name="week13"></a>-->
-<!--#### Week 13-->
-
-<a name="week12"></a>
-#### Week 12
-###### Week 12 Day 2
-- Rspec Testing:
-  - https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/rspec_testing.md
-  - https://github.com/HK-WDI-November-2014/test-reddit-rails
-  
-<a name="week11"></a>
-#### Week 11 - 13
-###### CAPSTONE PROjects
+<a name="capstone"></a>
+#### Capstone Projects (Week 11 - 13)
 - Colorful Blind:
   - BY Vivien
   - [Design Document](https://drive.google.com/file/d/0B0WtIf3Op-CGa2FBRVk3bkh1bFF1cFRuNFpxT3dEZEFOUDR3/view?usp=sharing)
@@ -85,6 +75,20 @@
   - [Design Document](https://docs.google.com/presentation/d/11tBQ-3EFnu31h1Crz_PotAPnY9w9SnqqopT4NVO0Ouo/edit#slide=id.g78f14fd9e_210)
   - [Github (missing)]()
   - [Heroku (missing)]()
+
+<!--<a name="week13"></a>-->
+<!--#### Week 13-->
+
+<a name="week12"></a>
+#### Week 12
+
+###### Week 12 Day 2
+- Rspec Testing:
+  - https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/rspec_testing.md
+  - https://github.com/HK-WDI-November-2014/test-reddit-rails
+  
+<a name="week11"></a>
+#### Week 11
 
 ###### Week 11 Day 3
 - Design Document Due Date
