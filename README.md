@@ -43,6 +43,9 @@
 
 ###### GA Perks
 - https://generalassemb.ly/alumni/perks
+ 
+###### GA Gallery
+- http://gallery.ga.co/
 
 ==================
 
@@ -63,17 +66,17 @@
   - [Design Document (missing)]()
   - [Github](https://github.com/dowtang/findproperty)
   - [Heroku](https://findproperty.herokuapp.com/)
-- HikeMapper:
+- HikeHK:
   - BY Cassie and Clement
   - [Design Document](https://docs.google.com/a/generalassemb.ly/document/d/1oNZrvtdOy6T5ctmQWAYk4s8uuhtRn5xWdn0JwrQLa-Q/edit)
   - [Web App Github](https://github.com/cchchoi1986/hikehk)
   - [Web App Heroku](https://hikehk.herokuapp.com)
   - [Mobile App Github](https://github.com/cchchoi1986/hikehk-mobile)
   - [Mobile App Heroku (missing)]()
-- (Project Name):
+- LOLStatsDB:
   - BY Denis
   - [Design Document](https://docs.google.com/presentation/d/11tBQ-3EFnu31h1Crz_PotAPnY9w9SnqqopT4NVO0Ouo/edit#slide=id.g78f14fd9e_210)
-  - [Github (missing)]()
+  - [Github](https://github.com/dshcheung/lolstatsdb)
   - [Heroku (missing)]()
 
 <!--<a name="week13"></a>-->
@@ -441,6 +444,14 @@
 - Project #1
   - https://product-review.herokuapp.com/products/2
   - https://github.com/cassiemak/XmasProject-Product-Review
+- Project #2 Links:
+  - Fritter:
+    - BY Cassie and Dale
+    - [Design Document](https://docs.google.com/a/generalassemb.ly/document/d/1JanTKxI8oH81IaNd6OuHd1qt16H5Xl5CH2jWVjJJcBQ/edit)
+    - [Presentation slides](http://slides.com/cassiemak/fritter)
+    - [Github](https://github.com/gduck/fritter)
+    - [Heroku](https://wdi-fritter.herokuapp.com/)
+    - [Youtube](http://youtu.be/V8xUNCZeG38?t=1h14m52s)
 
 <a name="clement"></a>
 ###### Clement
@@ -466,6 +477,14 @@
 - Project #1
   - https://thegameexchange-cchchoi1986.herokuapp.com/
   - https://github.com/cchchoi1986/thegameexchange
+- Project #2 Links:
+  - RecipeDB.me:
+    - BY Clement and Denis
+    - [Design Document](https://docs.google.com/presentation/d/1xbo8G_xCspXzK7BsP9lJgTxQOAtgZsPGcP60NSI-sTE/edit#slide=id.g5865f8b4e_021)
+    - [Presentation slides](http://slides.com/clementchoi/deck)
+    - [Github](https://github.com/dshcheung/recipedb.me)
+    - [Heroku](https://recipedb-me.herokuapp.com/)
+    - [Youtube](http://youtu.be/V8xUNCZeG38?t=39m22s)
 
 <a name="dale"></a>
 ###### Dale
@@ -490,6 +509,14 @@
 - Project #1
   - https://wantmaw.herokuapp.com/
   - https://github.com/gduck/Project1
+- Project #2 Links:
+  - Fritter:
+    - BY Cassie and Dale
+    - [Design Document](https://docs.google.com/a/generalassemb.ly/document/d/1JanTKxI8oH81IaNd6OuHd1qt16H5Xl5CH2jWVjJJcBQ/edit)
+    - [Presentation slides](http://slides.com/cassiemak/fritter)
+    - [Github](https://github.com/gduck/fritter)
+    - [Heroku](https://wdi-fritter.herokuapp.com/)
+    - [Youtube](http://youtu.be/V8xUNCZeG38?t=1h14m52s)
 
 <a name="denis"></a>
 ###### Denis
@@ -514,6 +541,14 @@
 - Project #1
   - https://boxful.herokuapp.com/
   - https://github.com/dshcheung/boxful
+- Project #2 Links:
+  - RecipeDB.me:
+    - BY Clement and Denis
+    - [Design Document](https://docs.google.com/presentation/d/1xbo8G_xCspXzK7BsP9lJgTxQOAtgZsPGcP60NSI-sTE/edit#slide=id.g5865f8b4e_021)
+    - [Presentation slides](http://slides.com/clementchoi/deck)
+    - [Github](https://github.com/dshcheung/recipedb.me)
+    - [Heroku](https://recipedb-me.herokuapp.com/)
+    - [Youtube](http://youtu.be/V8xUNCZeG38?t=39m22s)
 
 <a name="dow"></a>
 ###### Dow
@@ -530,6 +565,14 @@
 - Project #1
   - https://interviewhelpapp.herokuapp.com/
   - https://github.com/dowtang/interviewer
+- Project #2 Links:
+  - FoodMagic:
+    - BY Dow and Vivien
+    - [Design Document](https://www.dropbox.com/s/qd6vxi7jd6p43ge/FoodMagic%20Presentation.key?dl=0)
+    - [Presentation slides](https://slides.com/dowtang/foodmagic)
+    - [Github](https://github.com/dowtang/foodmagic)
+    - [Heroku](https://foodmagic.herokuapp.com/)
+    - [Youtube](http://youtu.be/V8xUNCZeG38?t=13m20s)
 
 <a name="vivien"></a>
 ###### Vivien
@@ -553,6 +596,14 @@
 - Project #1
   - https://diabetescured.herokuapp.com/readings
   - https://github.com/vivientam/diabetes
+- Project #2 Links:
+  - FoodMagic:
+    - BY Dow and Vivien
+    - [Design Document](https://www.dropbox.com/s/qd6vxi7jd6p43ge/FoodMagic%20Presentation.key?dl=0)
+    - [Presentation slides](https://slides.com/dowtang/foodmagic)
+    - [Github](https://github.com/dowtang/foodmagic)
+    - [Heroku](https://foodmagic.herokuapp.com/)
+    - [Youtube](http://youtu.be/V8xUNCZeG38?t=13m20s)
 
 <a name="resources"></a>
 #### Resources
