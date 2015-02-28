@@ -6,8 +6,8 @@
 ###### You can ask questions here! https://github.com/HK-WDI-November-2014/student-course-everything/issues
 
 ###### Contents
-<!--* [Week 13](#week13)-->
 * [Capstone (Week 11-13)](#capstone)
+* [Week 13](#week13)
 * [Week 12](#week12)
 * [Week 11](#week11)
 * [Week 10](#week10)
@@ -79,8 +79,17 @@
   - [Github](https://github.com/dshcheung/lolstatsdb)
   - [Heroku (missing)]()
 
-<!--<a name="week13"></a>-->
-<!--#### Week 13-->
+<a name="week13"></a>
+#### Week 13
+
+###### Week 13 Day 5
+- Student Teaching Day
+- Student Teaching Guideline:
+
+###### Week 13 Day 4
+- Final Presentation Day
+- Starting at 7PM at 9/F Garage Society
+- Final Presentation Guideline:
 
 <a name="week12"></a>
 #### Week 12
