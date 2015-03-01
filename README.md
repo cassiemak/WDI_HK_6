@@ -84,12 +84,12 @@
 
 ###### Week 13 Day 5
 - Student Teaching Day
-- Student Teaching Guideline:
+- Student Teaching Guideline: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/student-teaching-day.md
 
 ###### Week 13 Day 4
 - Final Presentation Day
 - Starting at 7PM at 9/F Garage Society
-- Final Presentation Guideline:
+- Final Presentation Guideline: https://github.com/HK-WDI-November-2014/student-course-everything/blob/master/presentation-guideline-final.md
 
 <a name="week12"></a>
 #### Week 12
