@@ -15,3 +15,10 @@
 - Duration:
   - For Individual Projects: 15 mins + 5 mins Q&A
   - For Group Projects: 30 mins + 10 mins Q&A
+
+#### Presentation Order
+- Property Finder (Dow)
+- HikeHK (Cassie + Clement)
+- Birthday Newz (Dale)
+- Colourful Blind (Vivien)
+- ggStatsDB (Denis)
