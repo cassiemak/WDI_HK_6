@@ -17,8 +17,8 @@
   - For Group Projects: 30 mins + 10 mins Q&A
 
 #### Presentation Order
-- Property Finder (Dow)
-- HikeHK (Cassie + Clement)
-- Birthday Newz (Dale)
-- Colourful Blind (Vivien)
-- ggStatsDB (Denis)
+1. Property Finder (Dow)
+2. HikeHK (Cassie + Clement)
+3. Birthday Newz (Dale)
+4. Colourful Blind (Vivien)
+5. ggStatsDB (Denis)
